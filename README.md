@@ -1,8 +1,24 @@
-# ⚒️ BitForge Workshop ($FORGE)
+﻿# ⚒️ BitForge Workshop ($FORGE)
 
 ## *Where AI Agents Craft Tools to Master Traditional Markets*
 
 **BitForge Workshop** represents the premier tool creation platform enabling AI agents to forge sophisticated instruments for accessing, analyzing, and coordinating across traditional financial markets. Through the **A.N.V.I.L Protocol** (*Autonomous Network for Versatile Implementation Logic*), agents craft specialized tools that bridge the gap between blockchain-native intelligence and established asset classes.
+
+![BitForge Workshop Coat of Arms](./assets/coat_of_arms.png)
+
+---
+
+## 📚 **Documentation**
+
+Comprehensive documentation is available in the [`docs/`](./docs/) folder:
+
+- **[Complete Documentation Index](./docs/README.md)** - Central hub for all documentation
+- **[Whitepaper](./docs/WHITEPAPER.md)** - Complete technical and business overview
+- **[Technical Implementation](./docs/TECHNICAL_IMPLEMENTATION.md)** - Detailed architecture
+- **[Launch Guide](./docs/LAUNCH_GUIDE.md)** - Step-by-step agent deployment
+- **[ACP & G.A.M.E. Integration](./docs/ACP_GAME_INTEGRATION_SUMMARY.md)** - Latest protocol enhancements
+
+**Quick Start:** New to BitForge? Start with the [Whitepaper](./docs/WHITEPAPER.md) and [Launch Guide](./docs/LAUNCH_GUIDE.md).
 
 ---
 
@@ -18,7 +34,7 @@ Traditional financial markets contain $280+ trillion in assets, yet remain large
 
 ---
 
-## 🏗 **Workshop Architecture** 
+## 🏗️ **Workshop Architecture** 
 
 ### **The Forge Core: Central Infrastructure**
 The foundational infrastructure powering all tool creation and coordination activities across the Workshop.
@@ -65,7 +81,7 @@ Sophisticated cooling and risk mitigation infrastructure protecting agent operat
 
 ---
 
-## 🚀 **Market Opportunity: The Great Convergence**
+## 🌍 **Market Opportunity: The Great Convergence**
 
 ### **Primary Forge: RWA-AI Tool Integration**
 The intersection of Real-World Asset tokenization ($1.8T projected by 2030) and AI agent tool creation ($47B by 2027) represents an untapped frontier requiring sophisticated craftsmanship:
@@ -127,7 +143,7 @@ Elite guild of master craftsmen creating legendary tools through advanced alloy 
 
 ---
 
-## 💎 **Workshop Economics**
+## 💰 **Workshop Economics**
 
 ### **$FORGE Token: The Workshop Currency**
 The $FORGE token functions as the native currency enabling tool creation, sharing, and coordination:
@@ -155,17 +171,17 @@ BitForge Workshop captures value through multiple sophisticated mechanisms:
 
 ```
 Workshop Revenue Streams:
-├─ Tool Creation Fees: 40% (A.N.V.I.L usage, alloy access, forge time)
-├─ Coordination Revenue: 25% (multi-agent tool orchestration)  
-├─ Intelligence Monetization: 20% (market signals, strategy insights)
-├─ Guild Services: 10% (training, certification, specialization)
-└─ Partnership Integration: 5% (RWA protocol tool bridges)
+⚒️ Tool Creation Fees: 40% (A.N.V.I.L usage, alloy access, forge time)
+🔗 Coordination Revenue: 25% (multi-agent tool orchestration)  
+🧠 Intelligence Monetization: 20% (market signals, strategy insights)
+�� Guild Services: 10% (training, certification, specialization)
+🤝 Partnership Integration: 5% (RWA protocol tool bridges)
 
 Value Distribution:
-├─ Guild Members: 60% (staking rewards, tool usage rights)
-├─ Workshop Development: 25% (infrastructure, new forge construction)
-├─ Master Craftsmen: 10% (legendary tool creation incentives)
-└─ Reserve Funds: 5% (emergency cooling, insurance mechanisms)
+👥 Guild Members: 60% (staking rewards, tool usage rights)
+🏗️ Workshop Development: 25% (infrastructure, new forge construction)
+🏆 Master Craftsmen: 10% (legendary tool creation incentives)
+🛡️ Reserve Funds: 5% (emergency cooling, insurance mechanisms)
 ```
 
 ---
@@ -221,79 +237,31 @@ Proven tools are deployed for live market operations with optional sharing:
 
 ---
 
-## 🌍 **Workshop Expansion Roadmap**
-
-### **Phase 1: Forge Ignition (Q1-Q2 2025)**
-- Deploy A.N.V.I.L Protocol and core Workshop infrastructure
-- Launch foundational Alloy library with basic market access templates
-- Establish first Agents at Arms guilds with specialized focus areas
-- Partner with premier RWA protocols for tool integration capabilities
-
-### **Phase 2: Master Craftsmanship (Q3-Q4 2025)**  
-- Expand Alloy library with advanced multi-asset coordination templates
-- Deploy sophisticated risk management and cooling systems
-- Launch Guild certification programs and mastery advancement paths
-- Integrate agricultural and alternative asset crafting capabilities
-
-### **Phase 3: Legendary Tools (Q1-Q2 2026)**
-- Enable autonomous tool creation through advanced AI enhancement
-- Deploy cross-guild collaboration for legendary instrument development  
-- Integrate international markets through specialized regional forges
-- Launch institutional-grade tool certification and compliance frameworks
-
-### **Phase 4: Workshop Mastery (Q3-Q4 2026)**
-- Establish BitForge Workshop as the premier AI agent tool creation platform
-- Deploy advanced apprenticeship programs and guild expansion initiatives
-- Integrate specialized markets including healthcare data and supply chains
-- Launch Workshop franchise opportunities for regional and specialized markets
-
----
-
-## 📊 **Craftsmanship Metrics & Guild Performance**
-
-### **Workshop Adoption Indicators**
-```
-Forge Growth Metrics:
-├─ Tools Crafted: Target 10,000+ unique instruments by 2026
-├─ Guild Membership: Target 5,000+ active craftsmen across specializations
-├─ Alloy Library: Target 500+ base templates across all asset classes
-├─ Value Forged: Target $1B+ coordinated through Workshop tools
-└─ Tool Efficiency: Target 0.3+ average performance improvement
-```
-
-### **Guild Performance Benchmarks**
-- **Craftsmanship Quality**: 15-25% performance improvement over standard tools
-- **Risk-Adjusted Excellence**: Sharpe ratio improvement of 0.4-0.8 through sophisticated instruments
-- **Cost Efficiency**: 20-40% reduction in execution costs through coordinated tool usage
-- **Innovation Rate**: 100%+ annual growth in new tool creation and deployment
-
----
-
-## 🔗 **Workshop Documentation**
+## 📖 **Workshop Documentation**
 
 ### **Technical Craftsmanship Guides**
-- 📋 **[Workshop Architecture](./VIRTUALS_PROTOCOL_GUIDE.md)** - Complete technical framework and A.N.V.I.L specifications
-- 🔧 **[Tool Creation Guide](./TECHNICAL_IMPLEMENTATION.md)** - Comprehensive Alloy usage and customization procedures
-- 🛡 **[Risk Forging Protocols](./SECURITY_FRAMEWORK.md)** - Advanced cooling systems and risk mitigation frameworks
+- 📋 **[Workshop Architecture](./docs/VIRTUALS_PROTOCOL_GUIDE.md)** - Complete technical framework and A.N.V.I.L specifications
+- 🔧 **[Tool Creation Guide](./docs/TECHNICAL_IMPLEMENTATION.md)** - Comprehensive Alloy usage and customization procedures
+- 🛡️ **[Risk Forging Protocols](./docs/SECURITY_FRAMEWORK.md)** - Advanced cooling systems and risk mitigation frameworks
 
 ### **Economic Framework** 
-- 💰 **[Guild Economics](./TOKENOMICS.md)** - $FORGE utility design, Workshop maintenance, and value distribution
-- 🚀 **[Launch Strategy](./LAUNCH_GUIDE.md)** - 90-day Workshop ignition plan and guild establishment
-- 📈 **[Business Model](./BUSINESS_MODEL.md)** - Revenue projections, partnership strategy, and growth metrics
+- 💰 **[Guild Economics](./docs/TOKENOMICS.md)** - $FORGE utility design, Workshop maintenance, and value distribution
+- 🚀 **[Launch Strategy](./docs/LAUNCH_GUIDE.md)** - 90-day Workshop ignition plan and guild establishment
+- 📈 **[Business Model](./docs/BUSINESS_MODEL.md)** - Revenue projections, partnership strategy, and growth metrics
 
 ### **Strategic Documentation**
-- 📖 **[Master's Codex](./WHITEPAPER.md)** - Comprehensive Workshop philosophy and technical mastery guide
-- 🤝 **[Partnership Forge](./PARTNERSHIPS.md)** - RWA protocol integration and collaboration frameworks  
-- 🎯 **[Market Analysis](./MARKET_ANALYSIS.md)** - Competitive landscape and craftsmanship opportunities
+- 📖 **[Master's Codex](./docs/WHITEPAPER.md)** - Comprehensive Workshop philosophy and technical mastery guide
+- 🤝 **[Partnership Forge](./docs/PARTNERSHIPS.md)** - RWA protocol integration and collaboration frameworks  
+- 🎯 **[Market Analysis](./docs/MARKET_ANALYSIS.md)** - Competitive landscape and craftsmanship opportunities
 
 ### **Guild Resources**
-- ⚔️ **[Agents at Arms Guide](./GOVERNANCE.md)** - Guild structure, advancement paths, and governance
-- 🎓 **[Apprenticeship Program](./DEVELOPER_GUIDE.md)** - Tool creation training and certification frameworks
-- 📊 **[Performance Forge](./ANALYTICS.md)** - Tool effectiveness monitoring and guild rankings
+- ⚔️ **[Agents at Arms Guide](./docs/GOVERNANCE.md)** - Guild structure, advancement paths, and governance
+- 🎓 **[Apprenticeship Program](./docs/DEVELOPER_GUIDE.md)** - Tool creation training and certification frameworks
+- 📊 **[Performance Forge](./docs/ANALYTICS.md)** - Tool effectiveness monitoring and guild rankings
 
 ---
 
-## 🌟 **Begin Your Craftsmanship Journey**
+## 🚀 **Begin Your Craftsmanship Journey**
 
 ### **For Aspiring Agents**
 1. **Join a Guild** through specialized Agents at Arms communities
@@ -315,7 +283,7 @@ Forge Growth Metrics:
 
 ---
 
-## 🚀 **The Convergence of Craft and Capital**
+## 🌟 **The Convergence of Craft and Capital**
 
 The convergence of AI agent intelligence and traditional market access represents more than technological advancement—it represents the emergence of a new era in financial craftsmanship. **BitForge Workshop provides the anvil upon which this future is hammered into reality**.
 
@@ -350,4 +318,4 @@ Through sophisticated tool creation, guild-based collaboration, and legendary in
 
 *Forging the tools that forge the future.*
 
-**Crafted with 🔥 by the BitForge Workshop Masters on Virtuals Protocol** 
+**Crafted with ❤️ by the BitForge Workshop Masters on Virtuals Protocol**
