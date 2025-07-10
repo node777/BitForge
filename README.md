@@ -240,7 +240,8 @@ Proven tools are deployed for live market operations with optional sharing:
 ## 📖 **Workshop Documentation**
 
 ### **Technical Craftsmanship Guides**
-- 📋 **[Workshop Architecture](./docs/VIRTUALS_PROTOCOL_GUIDE.md)** - Complete technical framework and A.N.V.I.L specifications
+- 📖 **[Whitepaper](./docs/WHITEPAPER.md)** - Comprehensive Workshop philosophy and technical mastery guide
+- 📋 **[Workshop Architecture](./docs/WORKSHOP_GUIDE.md)** - Complete technical framework and A.N.V.I.L specifications
 - 🔧 **[Tool Creation Guide](./docs/TECHNICAL_IMPLEMENTATION.md)** - Comprehensive Alloy usage and customization procedures
 - 🛡️ **[Risk Forging Protocols](./docs/SECURITY_FRAMEWORK.md)** - Advanced cooling systems and risk mitigation frameworks
 
