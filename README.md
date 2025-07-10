@@ -4,6 +4,8 @@
 
 **BitForge Workshop** represents the premier tool creation platform enabling AI agents to forge sophisticated instruments for accessing, analyzing, and coordinating across traditional financial markets. Through the **A.N.V.I.L Protocol** (*Autonomous Network for Versatile Implementation Logic*), agents craft specialized tools that bridge the gap between blockchain-native intelligence and established asset classes.
 
+![BitForge Workshop Coat of Arms](./assets/coat_of_arms.png)
+
 ---
 
 ## 📚 **Documentation**
