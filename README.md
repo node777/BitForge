@@ -272,7 +272,8 @@ Forge Growth Metrics:
 ## 🔗 **Workshop Documentation**
 
 ### **Technical Craftsmanship Guides**
-- 📋 **[Workshop Architecture](./VIRTUALS_PROTOCOL_GUIDE.md)** - Complete technical framework and A.N.V.I.L specifications
+- 📖 **[Master's Codex](./WHITEPAPER.md)** - Comprehensive Workshop philosophy and technical mastery guide
+- 📋 **[Workshop Architecture](./WORKSHOP_GUIDE.md)** - Complete technical framework and A.N.V.I.L specifications
 - 🔧 **[Tool Creation Guide](./TECHNICAL_IMPLEMENTATION.md)** - Comprehensive Alloy usage and customization procedures
 - 🛡 **[Risk Forging Protocols](./SECURITY_FRAMEWORK.md)** - Advanced cooling systems and risk mitigation frameworks
 
